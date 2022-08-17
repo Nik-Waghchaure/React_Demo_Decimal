@@ -1,0 +1,21 @@
+.modalheadd{
+    margin-top: 10% !important;
+    margin-bottom: 10% !important;
+    margin-left: 5% !important;
+}
+
+.ReactModal__Overlay {
+    opacity: 0;
+    transition: opacity 1000ms ease-in-out;
+}
+
+.ReactModal__Overlay--after-open{
+    opacity: 1;
+}
+
+.ReactModal__Overlay--before-close{
+    opacity: 0;
+}
+
+
+  

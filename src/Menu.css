@@ -1,0 +1,223 @@
+.appnavbar .MuiToolbar-regular {
+  min-height: 50px;
+}
+
+.appnavbar {
+  background: #fff !important;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px !important;
+  min-height: 40px !important;
+}
+
+.dpalogo {
+height: 45px;
+top: 0px;
+position: relative;
+}
+
+.loggo{
+  padding:8px 0px !important;
+}
+
+.logodesk{display: block;}
+.logomob{display: none;}
+
+.mainnavbar{
+background-color: #ffffff !important;
+box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.05) !important;
+}
+
+
+.sectionDesktop .MuiAvatar-root {
+width: 30px;
+height: 30px;
+display: flex;
+overflow: hidden;
+position: relative;
+font-size: 16px;
+align-items: center;
+flex-shrink: 0;
+font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+line-height: 1;
+border-radius: 50%;
+justify-content: center;
+}
+
+.sectionDesktop .MuiIconButton-root {
+flex: 0 0 auto;
+color: rgba(0, 0, 0, 0.54);
+padding: 6px;
+overflow: visible;
+font-size: 1.5rem;
+text-align: center;
+transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+border-radius: 50%;
+}
+
+
+
+.getpremium{position: relative; top:6px;}
+.getprem{display: none !important;}
+.getprem1{display: block;}
+
+
+.menuitem li{
+  padding-top: 0px !important;
+  padding-left: 0px;
+  padding-bottom: 0px;
+}
+
+.bdd{
+  padding-bottom: 8px !important;
+  border-bottom: 1px solid #00000022 !important;
+  margin-bottom: 8px !important;
+}
+
+.linkitem span{
+  padding-bottom: 5px !important;
+  font-size: 14px !important;
+  text-decoration: none !important;
+  color: #1930AB;
+  position: relative;
+  font-weight: 500 !important;
+  line-height: 20px;
+  letter-spacing: 0px;
+}
+
+.menudscrp{
+color: #b1b1b1 !important;
+font-size: 11px !important;
+line-height: 15px !important;
+text-align: justify;
+}
+
+.menuitem li a{
+font-size: 13px !important;
+text-decoration: none !important;
+color: #4D4F5D;
+position: relative;
+font-weight: 500 !important;
+margin: 0px;
+padding: 0px;
+line-height: 8px;
+}
+
+.menuitem li a span{
+position: relative;
+top: -7px;
+}
+
+.menuitem .MuiListItem-button:hover{
+background-color: transparent !important;
+}
+
+.appnavbar .MuiToolbar-regular {
+  min-height: 50px;
+}
+
+.appnavbar {
+  background: #fff !important;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px !important;
+  min-height: 40px !important;
+}
+
+
+.sti {
+  position: sticky;
+  top: 0;
+  z-index: 99;
+  background-color: #EAEAEA !important;
+  padding-bottom: 9px;
+  border-bottom: 4px solid #1930ab;
+}
+
+.st_middle {
+border-radius: 4px;
+padding: 14px 0px 0px 0px;
+}
+
+
+.respon{
+width: 100%;
+max-width:800px;
+height: auto;
+}
+
+.menuheading{
+  color: #01B4F0 !important;
+font-size: 13px !important;
+font-weight: 600 !important;
+letter-spacing: 2px !important;
+margin-bottom: 10px !important;
+text-transform: uppercase !important;
+}
+
+.iconimg{margin-right: 10px; width: 25px;}
+
+.menuitem .MuiPopover-paper{
+border-radius: 8px !important;
+box-shadow:0 0px 5px rgb(0 0 0 / 20%) !important;
+}
+
+.menuitem .MuiPopover-paper{
+top: 60px !important;
+padding: 5px 10px !important;
+width: auto!important;
+right: 0!important;
+left: 5px!important;}
+
+.menuitem .MuiPopover-paper{
+top: 72px !important;
+padding:5px 13px !important;
+width: 490px !important;
+right:7px !important;
+left: auto !important;
+border-radius: 6px !important;
+max-height: auto !important;
+}
+.useraddicon{display: none !important;}
+.signicons{display: block !important;}
+
+.grow{flex-grow: 1;}
+.sectionDesktop{display: flex;}
+
+.logintitle{
+align-items: center !important;
+display: flex !important;
+margin:2px !important;
+font-size: 13px !important;
+color: #000 !important;
+text-decoration: none !important;
+font-weight: 600 !important;
+}
+
+.menutt{
+  align-items: center !important;
+  display: flex !important;
+  margin:0px 0px !important;
+  font-size: 13px !important;
+  color: #000 !important;
+  text-decoration: none !important;
+  font-weight: 500 !important;
+  background-color: transparent !important;
+  text-transform: capitalize !important;
+}
+
+.logintitle:hover{
+text-decoration: none !important;color:#2357f3 !important;
+}
+
+.logintitle .lgsgicon{
+color: #f00 !important;
+display: none !important;
+}
+
+.profileimg{
+align-items: center !important;
+display: flex !important;
+margin: 10px 10px !important;
+font-size: 10px !important;width:30px !important;height:30px !important;cursor: pointer;
+}
+
+.iconapp:hover {
+background-color: transparent !important;
+}
